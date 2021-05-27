@@ -1,4 +1,4 @@
-# Delving-in-the-loss-landscape-to-embed-robust-watermarks-into-neural-networks
+# Delving in the loss landscape to embed robust watermarks into neural networks
 ```latex
     @INPROCEEDINGS{9413062,
     author={Tartaglione, Enzo and Grangetto, Marco and Cavagnino, Davide and Botta, Marco},
@@ -9,3 +9,4 @@
     doi={10.1109/ICPR48806.2021.9413062}}
 ```
 Link to the paper: https://ieeexplore.ieee.org/document/9413062 
+Link to the presentation: https://youtu.be/coDIgb3n_LA 
