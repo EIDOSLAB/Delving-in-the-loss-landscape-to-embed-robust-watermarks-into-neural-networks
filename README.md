@@ -7,5 +7,5 @@
     year={2021},
     pages={1243-1250},
     doi={10.1109/ICPR48806.2021.9413062}}
-
+```
 Link to the paper: https://ieeexplore.ieee.org/document/9413062 
