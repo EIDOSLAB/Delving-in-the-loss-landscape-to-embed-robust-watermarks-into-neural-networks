@@ -1,5 +1,6 @@
 # Delving in the loss landscape to embed robust watermarks into neural networks
 [![DOI](https://zenodo.org/badge/doi/10.1109/ICPR48806.2021.9413062.svg)](http://dx.doi.org/10.1109/ICPR48806.2021.9413062)
+[!(https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/coDIgb3n_LA )
 
 ```latex
     @INPROCEEDINGS{9413062,
@@ -10,6 +11,6 @@
     pages={1243-1250},
     doi={10.1109/ICPR48806.2021.9413062}}
 ```
-Link to the paper: https://ieeexplore.ieee.org/document/9413062 
 Link to the presentation: https://youtu.be/coDIgb3n_LA 
 ![Optional Text](valley.png)
+![Optional Text](algorithm.png)
