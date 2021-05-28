@@ -1,4 +1,5 @@
 # Delving in the loss landscape to embed robust watermarks into neural networks
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/doi/10.1109/ICPR48806.2021.9413062.svg)](http://dx.doi.org/10.1109/ICPR48806.2021.9413062)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/coDIgb3n_LA )
 
