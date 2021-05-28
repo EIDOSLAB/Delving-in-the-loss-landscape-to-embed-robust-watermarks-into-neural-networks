@@ -12,4 +12,4 @@
 ```
 Link to the paper: https://ieeexplore.ieee.org/document/9413062 
 Link to the presentation: https://youtu.be/coDIgb3n_LA 
-![Optional Text](DF.png)
+![Optional Text](valley.png)
