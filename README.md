@@ -1,5 +1,5 @@
 # Delving in the loss landscape to embed robust watermarks into neural networks
-[![DOI](https://zenodo.org/badge/doi/10.1109/ICPR48806.2021.9413062.svg)](http://dx.doi.org/110.1109/ICPR48806.2021.9413062)
+[![DOI](https://zenodo.org/badge/doi/10.1109/ICPR48806.2021.9413062.svg)](http://dx.doi.org/10.1109/ICPR48806.2021.9413062)
 
 ```latex
     @INPROCEEDINGS{9413062,
