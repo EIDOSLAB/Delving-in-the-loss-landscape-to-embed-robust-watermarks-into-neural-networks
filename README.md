@@ -1,4 +1,6 @@
 # Delving in the loss landscape to embed robust watermarks into neural networks
+[![DOI](https://zenodo.org/badge/doi/10.1109/ICPR48806.2021.9413062.svg)](http://dx.doi.org/110.1109/ICPR48806.2021.9413062)
+
 ```latex
     @INPROCEEDINGS{9413062,
     author={Tartaglione, Enzo and Grangetto, Marco and Cavagnino, Davide and Botta, Marco},
